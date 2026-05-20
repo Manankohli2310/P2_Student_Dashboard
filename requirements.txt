@@ -4,4 +4,4 @@ sqlalchemy
 psycopg2-binary 
 plotly
 faker
-psycopg2 
+ 
