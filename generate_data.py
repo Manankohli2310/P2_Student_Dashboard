@@ -1,16 +1,15 @@
 from faker import Faker
 import random
 import psycopg2
-import streamlit as st
 
 fake = Faker()
 
 conn = psycopg2.connect(
-    host=st.secrets["DB_HOST"],
-    database=st.secrets["DB_NAME"],
-    user=st.secrets["DB_USER"],
-    password=st.secrets["DB_PASSWORD"],
-    port=st.secrets["DB_PORT"]
+    host="ep-red-math-aosf0yly-pooler.c-2.ap-southeast-1.aws.neon.tech",
+    database="neondb",
+    user="neondb_owner",
+    password="npg_HsRIUF51zWMD",
+    port="5432"
 )
 
 cur = conn.cursor()
