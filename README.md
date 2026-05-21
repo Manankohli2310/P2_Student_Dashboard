@@ -73,7 +73,7 @@ The dashboard allows users to:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Code Snippets
 
 <img width="100%" alt="Dashboard Preview" src="Code Snippets.png">
 
