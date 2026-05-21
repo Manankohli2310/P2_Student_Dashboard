@@ -94,7 +94,7 @@ The dashboard allows users to:
 ## 📂 Project Structure
 
 ```bash id="0f12ji"
-Student-Management-Dashboard/
+P2_Student_Dashboard/
 │
 ├── app.py
 ├── database.py
