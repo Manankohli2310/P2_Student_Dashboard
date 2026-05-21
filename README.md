@@ -33,7 +33,7 @@ This project was developed as a **Mini Project** to practice:
 
 ## 🗄️ Database & Data Generation
 
-The project uses a **Cloud PostgreSQL Database** from **Neon Console**to store student records.
+The project uses a **Cloud PostgreSQL Database** from **Neon Console** to store student records.
 
 ### Technologies Used for Database:
 
