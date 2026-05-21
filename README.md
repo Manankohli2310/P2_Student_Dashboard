@@ -81,7 +81,7 @@ The dashboard allows users to:
 
 ## 🎥 YouTube Demo
 
-👉 [Watch Project Demo](YOUR_YOUTUBE_DEMO_LINK_HERE)
+👉 [Watch Project Demo](https://youtu.be/ZISZ6_U9eWI)
 
 ---
 
